@@ -12,7 +12,7 @@ Implemented the following features from user interface:
 6. Clickable hashtags. 
 7. Each page has a return to the main page. 
 
-Made API Backend to output json list for all posts, API Backend to output json dictionary. 
+Made API endpoint to output json list for all posts, API endpoint to output json dictionary. 
 
 Made API tests.
 
