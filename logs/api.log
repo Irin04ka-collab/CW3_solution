@@ -1,0 +1,6 @@
+INFO 2024-08-09 18:10:22,066: Запрощен пост 8 через API >> get_json_for_post_id
+INFO 2024-08-09 18:10:23,935: Запрощен пост 5 через API >> get_json_for_post_id
+INFO 2024-08-09 18:10:27,556: Запрощен пост 8 через API >> get_json_for_post_id
+INFO 2024-08-09 18:10:28,653: Запрощен пост 6 через API >> get_json_for_post_id
+INFO 2024-08-09 18:10:31,728: Запрощен пост 8 через API >> get_json_for_post_id
+INFO 2024-08-09 18:10:37,264: Запрошены все посты через API >> get_json_all_posts
